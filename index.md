@@ -4,3 +4,7 @@
 ```
 print("Hello, World!")
 ```
+# A task list to be completed<br>
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
