@@ -1,3 +1,6 @@
-# This is a H1 type header<br>
-## Adding an image into the file
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# Python notes<br>
+![Python logo](https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1)<br>
+## Print 'Hello, World!' in Python<br>
+```
+print("Hello, World!")
+```
